@@ -1,16 +1,27 @@
+<<<<<<< HEAD
 html, body{
     height: 100%
     background-color darkgreen;
+=======
+html,body{
+    height: 100%;
+    background-color: burlywood;
+    font-weight: bold;
+>>>>>>> BugFix
     color:darkmagenta;
     
 }
 
-h1, h2{
+h1, h2 {
     text-align: center;
 }
 .container{
     text-align: center;
 }
 .home-image{
+<<<<<<< HEAD
     width:40%;
+=======
+    width:50%;
+>>>>>>> BugFix
 }
