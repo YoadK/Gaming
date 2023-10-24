@@ -1,15 +1,17 @@
-body{
-    background-color: lightgoldenrodyellow;
-    color:darkblue;
-    font-family: 'Courier New', Courier, monospace;
+html,body{
+    height: 100%;
+    background-color: burlywood;
+    font-weight: bold;
+    color:darkmagenta;
+    
 }
 
-h1, h2, p {
+h1, h2 {
     text-align: center;
 }
 .container{
     text-align: center;
 }
 .home-image{
-    width:30%;
+    width:50%;
 }
